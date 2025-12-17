@@ -1,7 +1,7 @@
 {
   "name": "Billing System",
   "short_name": "Billing",
-  "start_url": "https://billing-systems.ct.ws/1.php",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#0a74da",
   "background_color": "#ffffff",
