@@ -1,10 +1,9 @@
 {
-  "name": "PHP PWA App",
-  "short_name": "PHP-PWA",
-  "start_url": "/1.php",
+  "name": "Billing System",
+  "short_name": "Billing",
   "display": "standalone",
+  "theme_color": "#0a74da",
   "background_color": "#ffffff",
-  "theme_color": "#0d6efd",
   "icons": [
     { "src": "icons/192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icons/512.png", "sizes": "512x512", "type": "image/png" }
