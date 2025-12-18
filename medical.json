@@ -1,7 +1,7 @@
 {
   "name": "Medical System",
-  "short_name": "Medical System",
-  "start_url": "https://medical-system.ct.ws/",
+  "short_name": "medical",
+  "start_url": "https://medical-system.ct.ws",
   "display": "standalone",
   "theme_color": "#0a74da",
   "background_color": "#ffffff",
