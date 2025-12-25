@@ -1,0 +1,12 @@
+{
+  "name": "Billing System",
+  "short_name": "Billing",
+  "start_url": "https://billing-systems.ct.ws/",
+  "display": "standalone",
+  "theme_color": "#0a74da",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "icons/bil-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/bil-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
